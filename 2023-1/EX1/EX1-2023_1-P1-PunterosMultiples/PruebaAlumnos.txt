@@ -1,0 +1,80 @@
+     CODIGO     NOMBRE                                  MODALIDAD  ESCALA   PORCENTAJE
+--------------------------------------------------------------------------------------------------------------
+   202123703  GAMARRA TABORI PAUL RONAL                    SuÀ     G5         
+   202119153  MENDOZA ARIAS HENRY                          PuÀ     G4         
+   202113758  SOMA INGA DIALY                              P         G1         
+   202123373  ESCALANTE RARAZ BLANCA                       P¤À     G3         
+   202127660  CHANG ARGUEDAS HENRY ANTONIO                 S         G4         25   
+   202112598  MORI ZAVALETA LUZ LOURDES                    S         G1         20   
+   202224569  RIVERA PASQUEL OFELIA CINTHIA                P         G5         
+   202214628  PALOMARES GUEVARA KARINA                     P         G5         
+   202121791  GONZALES VELASQUEZ WALTER                    S         G1         25   
+   202224918  PORTUGAL GUEVARA HELI JOHANA                 S         G5         50   
+   202115802  MINAYA AMEZQUITA RHONY JAIME                 P         G5         
+   202318072  RIVERA MONTERO GLORIA OFELIA                 V         G3         
+   202112887  CABRERA AGUERO JESSICA                       S         G2         50   
+   202313065  RETT SERRANO RAFAEL RHONY                    V         G2         
+   202129611  MALDONADO CORREA LUCERO CAROLA               P         G2         
+   202214712  CASANOVA CHUMPITAZ ALONSO                    V         G2         
+   202126490  TAVERA CORREA FERNANDO                       S         G2         50   
+   202313249  NORABUENA PAIRAZAMAN JULIAN                  P         G3         
+   202114739  VELASQUEZ CANO FERNANDO                      S         G4         50   
+   202319927  PATINO MEZA MANUEL                           V         G3         
+   202221155  CORRALES ZIMIC JAIME DANIEL                  P         G5         
+   202315724  VEGA SAENZ ALEXANDER RICHARD                 S         G4         50   
+   202125775  PRADO PAREDES JUAN                           S         G3         50   
+   202315643  IBEROS ZAMBRANO GONZALO                      P         G2         
+   202127344  DEL_POZO QUIO CESAR                          V         G3         
+   202318320  NORABUENA RIVERA GLORIA YESSICA              V         G5         
+   202315318  FLORENCIO LAM PAUL RONALD                    P         G3         
+   202227316  RIVERO RETT RONY ANTONIO                     S         G2         30   
+   202225778  MUNOZ ZIMIC ROCIO DELICIA                    S         G2         50   
+   202313754  MALCA SAAVEDRA DORIS MILAGROS                S         G3         30   
+   202217030  LUNA POLO SONIA                              V         G3         
+   202214204  DIAZ IBEROS GLENDA YESSICA                   S         G4         50   
+   202318383  GORDILLO BOLANOS ARTURO GONZALO              P         G3         
+   202122715  VARGAS ZARATE VALENTINA                      V         G1         
+   202213745  CARO QUISPE JORGE                            V         G1         
+   202113223  DIAZ SEDANO YVONNE                           S         G4         30   
+   202211325  MORI ARROYO SHIRLEY                          P         G3         
+   202315763  CORREA AGUIRRE MOISES                        S         G2         30   
+   202129785  FARFAN RARAZ WALDEMAR                        S         G4         50   
+   202216995  LARRIEGA ARCA ISABEL MADELEINE               P         G5         
+   202115400  SANTISTEBAN JUGO NESTOR                      S         G1         30   
+   202311247  SERRANO JOLAY RHONY ROLANDO                  P         G5         
+   202122742  ZAVALETA LOPEZ KARIN VIRGINIA                P         G5         
+   202312000  LANDA CUEVA JOHAN                            V         G4         
+   202313122  CUBA NARVAEZ PAUL JOHN                       P         G2         
+   202219773  SANCHEZ CUBA NATALIA ESTEFANIA               S         G5         50   
+   202316015  ALFARO FUENTES MAGDA                         V         G3         
+   202116038  SAONA ARIAS ALBERTO                          S         G4         25   
+   202114285  CHAVARRI ALDAVE FERNANDO MARTIN              S         G2         25   
+   202316517  ZEGARRA CUBA ANTONIO                         P         G2         
+   202119958  QUISPE BERROCAL ANTONIO ALVARO DANIEL        P         G3         
+   202111260  GORDILLO CASTRO RONAL                        P         G2         
+   202129735  MENDOZA CORREA JESUS CHRISTIAN               S         G5         50   
+   202215067  JAUREGUI AGUERO HECTOR HENRY                 S         G4         50   
+   202319103  LEE VASQUEZ JENNY                            V         G4         
+   202111935  GUZMAN BARROS FELIPE                         V         G3         
+   202226249  WONG GALLO JANET MADELEINE                   S         G1         30   
+   202312501  CORTES REYES MARIBEL                         V         G2         
+   202125607  POZO JUGO ISABEL                             P         G2         
+   202215494  DE_LA_HAZA CASTRO EMIGDIO JOHNNY             S         G2         30   
+   202219437  ZIMIC PAREDES SHIRLEY                        S         G4         25   
+   202116963  CORTEZ LEIVA SURAMI SILVIA                   S         G4         30   
+   202113179  PEREZ PEREZ BIANCA PATRICIA                  V         G3         
+   202123402  VIZCARDO MORI LUCERO ZKENIA                  P         G1         
+   202223508  AURIS JOLAY HENRY EDILBERTO                  S         G5         50   
+   202311748  PATINO FUENTES MILAGROS MARIELLA             V         G4         
+   202226929  BOLANOS FUENTES JORGE                        S         G2         50   
+   202318318  TOKESHI GONZALES MARTIN                      S         G1         50   
+   202312360  VILCA BARRERA CESAR EDGAR                    S         G5         50   
+   202312050  LOYOLA HIJAR NICOLAS OSCAR                   V         G4         
+   202314919  CORTES CALIXTO ROSARIO                       S         G5         50   
+   202119707  MIRANDA LARRIEGA JUVENAL NESTOR              S         G2         30   
+   202216453  MINAYA VIZCARRA JUVENAL                      S         G3         25   
+   202313627  CHAVEZ CARO YVONNE                           V         G1         
+   202129719  MAEIREIZO VASQUEZ LOURDES SILVIA             P         G2         
+   202222447  VILCA JUSTINO MELVIN                         V         G1         
+   202111397  ZEVALLOS PRADO RICARDO                       S         G2         50   
+   202315527  JUSTINO COLLADO LUZ DELICIA                  S         G3         30   
