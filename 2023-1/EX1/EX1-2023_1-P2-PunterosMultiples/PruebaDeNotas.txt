@@ -1,0 +1,349 @@
+     CODIGO     NOMBRE                                  MODALIDAD  ESCALA   PORCENTAJE
+--------------------------------------------------------------------------------------------------------------
+   202123703  GAMARRA TABORI PAUL RONAL                    
+MEC270       14  202302    1                  2667.60
+INF263        9  202302    2               6254375.77
+MAT241       13  202202    1                  2000.70
+TOTAL PAGADO: 6259044.07
+
+   202119153  MENDOZA ARIAS HENRY                          
+MEC270       16  202201    1                  2226.80
+FIS220       15  202201    1                  2505.15
+TOTAL PAGADO: 4731.95
+
+   202113758  SOMA INGA DIALY                              
+   202123373  ESCALANTE RARAZ BLANCA                       
+INF246        7  202202    1                  1703.25
+TOTAL PAGADO: 1703.25
+
+   202127660  CHANG ARGUEDAS HENRY ANTONIO                 
+INF263       12  202302    1                  2087.62
+TOTAL PAGADO: 2087.62
+
+   202112598  MORI ZAVALETA LUZ LOURDES                    
+   202224569  RIVERA PASQUEL OFELIA CINTHIA                
+MEC270       20  202301    1                  2667.60
+INF263       13  202201    1                  2500.88
+MEC206       14  202202    1                  3001.05
+FIS220       17  202302    1                  3001.05
+TOTAL PAGADO: 11170.57
+
+   202214628  PALOMARES GUEVARA KARINA                     
+   202121791  GONZALES VELASQUEZ WALTER                    
+MAT241       16  202202    1                   846.90
+TOTAL PAGADO: 846.90
+
+   202224918  PORTUGAL GUEVARA HELI JOHANA                 
+INF246       13  202202    1                  2500.88
+MAT241       12  202201    1                  2000.70
+TOTAL PAGADO: 4501.57
+
+   202115802  MINAYA AMEZQUITA RHONY JAIME                 
+MEC206       16  202201    2               9006301.10
+INF263       18  202301    1                  2500.88
+MEC289       20  202201    1                  2834.32
+TOTAL PAGADO: 9011636.30
+
+   202318072  RIVERA MONTERO GLORIA OFELIA                 
+INF263       14  202302    1                  1703.25
+TOTAL PAGADO: 1703.25
+
+   202112887  CABRERA AGUERO JESSICA                       
+   202313065  RETT SERRANO RAFAEL RHONY                    
+INF263       16  202202    1                  1357.50
+TOTAL PAGADO: 1357.50
+
+   202129611  MALDONADO CORREA LUCERO CAROLA               
+   202214712  CASANOVA CHUMPITAZ ALONSO                    
+INF246       12  202302    1                  1357.50
+MAT241       19  202202    1                  1086.00
+TOTAL PAGADO: 2443.50
+
+   202126490  TAVERA CORREA FERNANDO                       
+MEC206       11  202302    1                  1629.00
+TOTAL PAGADO: 1629.00
+
+   202313249  NORABUENA PAIRAZAMAN JULIAN                  
+FIS220       17  202302    3        17451733590290.38
+INF246       11  202201    3         8416152387292.82
+MAT241        9  202202    1                  1362.60
+TOTAL PAGADO: 25867885978945.80
+
+   202114739  VELASQUEZ CANO FERNANDO                      
+MAT241       15  202202    1                  1670.10
+MEC206       20  202302    1                  2505.15
+TOTAL PAGADO: 4175.25
+
+   202319927  PATINO MEZA MANUEL                           
+MAT241       20  202301    1                  1362.60
+TOTAL PAGADO: 1362.60
+
+   202221155  CORRALES ZIMIC JAIME DANIEL                  
+   202315724  VEGA SAENZ ALEXANDER RICHARD                 
+MEC270        5  202202    1                  2226.80
+MAT241       12  202202    1                  1670.10
+INF246       17  202202    1                  2087.62
+TOTAL PAGADO: 5984.53
+
+   202125775  PRADO PAREDES JUAN                           
+FIS220       19  202202    2               4177527.21
+MEC206       18  202201    1                  2043.90
+MEC270       20  202301    1                  1816.80
+TOTAL PAGADO: 4181387.91
+
+   202315643  IBEROS ZAMBRANO GONZALO                      
+MEC270       13  202202    1                  1448.00
+INF246       17  202201    1                  1357.50
+TOTAL PAGADO: 2805.50
+
+   202127344  DEL_POZO QUIO CESAR                          
+MEC270       14  202201    3        10895031365009.82
+INF263       16  202202    1                  1703.25
+TOTAL PAGADO: 10895031366713.07
+
+   202318320  NORABUENA RIVERA GLORIA YESSICA              
+MAT241       19  202302    1                  2000.70
+MEC289       16  202302    2               8033398.21
+FIS220       11  202202    1                  3001.05
+INF263       20  202301    2               6254375.77
+TOTAL PAGADO: 14292775.72
+
+   202315318  FLORENCIO LAM PAUL RONALD                    
+INF246       17  202302    1                  1703.25
+MAT241       17  202201    1                  1362.60
+TOTAL PAGADO: 3065.85
+
+   202227316  RIVERO RETT RONY ANTONIO                     
+MEC289       12  202202    3         5602604971815.06
+TOTAL PAGADO: 5602604971815.06
+
+   202225778  MUNOZ ZIMIC ROCIO DELICIA                    
+MEC270       16  202201    1                  1448.00
+MAT241       12  202301    1                  1086.00
+INF246       19  202301    1                  1357.50
+TOTAL PAGADO: 3891.50
+
+   202313754  MALCA SAAVEDRA DORIS MILAGROS                
+INF246       20  202201    2               2901060.56
+MEC270        5  202202    1                  1816.80
+TOTAL PAGADO: 2902877.36
+
+   202217030  LUNA POLO SONIA                              
+INF263       18  202302    1                  1703.25
+TOTAL PAGADO: 1703.25
+
+   202214204  DIAZ IBEROS GLENDA YESSICA                   
+INF246       16  202302    2               4358178.14
+MEC289       20  202202    2               5597837.70
+TOTAL PAGADO: 9956015.84
+
+   202318383  GORDILLO BOLANOS ARTURO GONZALO              
+INF246       16  202202    2               2901060.56
+INF263       12  202201    1                  1703.25
+TOTAL PAGADO: 2902763.81
+
+   202122715  VARGAS ZARATE VALENTINA                      
+   202213745  CARO QUISPE JORGE                            
+INF246       12  202201    1                  1058.62
+TOTAL PAGADO: 1058.62
+
+   202113223  DIAZ SEDANO YVONNE                           
+MEC270       16  202202    1                  2226.80
+TOTAL PAGADO: 2226.80
+
+   202211325  MORI ARROYO SHIRLEY                          
+INF263       19  202302    2               2901060.56
+MAT241       11  202201    1                  1362.60
+TOTAL PAGADO: 2902423.16
+
+   202315763  CORREA AGUIRRE MOISES                        
+MAT241       20  202202    1                  1086.00
+TOTAL PAGADO: 1086.00
+
+   202129785  FARFAN RARAZ WALDEMAR                        
+MAT241       12  202201    1                  1670.10
+TOTAL PAGADO: 1670.10
+
+   202216995  LARRIEGA ARCA ISABEL MADELEINE               
+   202115400  SANTISTEBAN JUGO NESTOR                      
+FIS220       15  202201    1                  1270.35
+TOTAL PAGADO: 1270.35
+
+   202311247  SERRANO JOLAY RHONY ROLANDO                  
+MEC270       19  202302    1                  2667.60
+MAT241       15  202302    1                  2000.70
+TOTAL PAGADO: 4668.30
+
+   202122742  ZAVALETA LOPEZ KARIN VIRGINIA                
+FIS220       17  202301    1                  3001.05
+TOTAL PAGADO: 3001.05
+
+   202312000  LANDA CUEVA JOHAN                            
+MEC206        8  202301    1                  2505.15
+MEC289       18  202302    2               5597837.70
+FIS220        7  202201    1                  2505.15
+TOTAL PAGADO: 5602848.00
+
+   202313122  CUBA NARVAEZ PAUL JOHN                       
+MAT241       11  202201    1                  1086.00
+MEC289       11  202201    3         5602604971815.06
+MEC206       18  202202    1                  1629.00
+TOTAL PAGADO: 5602604974530.06
+
+   202219773  SANCHEZ CUBA NATALIA ESTEFANIA               
+MAT241       13  202202    1                  2000.70
+INF246       18  202302    1                  2500.88
+TOTAL PAGADO: 4501.57
+
+   202316015  ALFARO FUENTES MAGDA                         
+INF246       18  202301    1                  1703.25
+FIS220       13  202202    1                  2043.90
+TOTAL PAGADO: 3747.15
+
+   202116038  SAONA ARIAS ALBERTO                          
+INF246       11  202202    1                  2087.62
+MAT241       20  202201    1                  1670.10
+TOTAL PAGADO: 3757.73
+
+   202114285  CHAVARRI ALDAVE FERNANDO MARTIN              
+MEC289       19  202301    1                  1538.50
+TOTAL PAGADO: 1538.50
+
+   202316517  ZEGARRA CUBA ANTONIO                         
+   202119958  QUISPE BERROCAL ANTONIO ALVARO DANIEL        
+MAT241       17  202302    1                  1362.60
+MEC270       19  202202    1                  1816.80
+INF246       17  202201    1                  1703.25
+TOTAL PAGADO: 4882.65
+
+   202111260  GORDILLO CASTRO RONAL                        
+MEC289       15  202202    1                  1538.50
+INF246       11  202301    1                  1357.50
+TOTAL PAGADO: 2896.00
+
+   202129735  MENDOZA CORREA JESUS CHRISTIAN               
+FIS220       19  202201    1                  3001.05
+MEC289       13  202201    1                  2834.32
+INF263       16  202302    1                  2500.88
+TOTAL PAGADO: 8336.25
+
+   202215067  JAUREGUI AGUERO HECTOR HENRY                 
+MEC206       18  202201    1                  2505.15
+MEC289       11  202202    1                  2365.98
+TOTAL PAGADO: 4871.12
+
+   202319103  LEE VASQUEZ JENNY                            
+MAT241       16  202301    1                  1670.10
+INF263       13  202202    1                  2087.62
+INF246        7  202202    1                  2087.62
+FIS220       17  202302    1                  2505.15
+TOTAL PAGADO: 8350.50
+
+   202111935  GUZMAN BARROS FELIPE                         
+   202226249  WONG GALLO JANET MADELEINE                   
+MEC270       20  202202    1                  1129.20
+MEC289       15  202201    1                  1199.78
+TOTAL PAGADO: 2328.98
+
+   202312501  CORTES REYES MARIBEL                         
+MEC270       13  202201    1                  1448.00
+MEC206       16  202302    1                  1629.00
+TOTAL PAGADO: 3077.00
+
+   202125607  POZO JUGO ISABEL                             
+FIS220       14  202202    1                  1629.00
+MEC206       19  202201    1                  1629.00
+TOTAL PAGADO: 3258.00
+
+   202215494  DE_LA_HAZA CASTRO EMIGDIO JOHNNY             
+MEC206       19  202301    2               2653641.00
+FIS220       14  202302    1                  1629.00
+MEC270       16  202201    3         4396167663616.00
+TOTAL PAGADO: 4396170318886.00
+
+   202219437  ZIMIC PAREDES SHIRLEY                        
+MEC289       17  202302    2               5597837.70
+MEC270        8  202202    1                  2226.80
+TOTAL PAGADO: 5600064.50
+
+   202116963  CORTEZ LEIVA SURAMI SILVIA                   
+FIS220       20  202302    1                  2505.15
+MEC206       14  202301    1                  2505.15
+MEC289       20  202302    1                  2365.98
+TOTAL PAGADO: 7376.28
+
+   202113179  PEREZ PEREZ BIANCA PATRICIA                  
+   202123402  VIZCARDO MORI LUCERO ZKENIA                  
+INF246       16  202202    2               1120686.89
+TOTAL PAGADO: 1120686.89
+
+   202223508  AURIS JOLAY HENRY EDILBERTO                  
+MEC206       15  202202    2               9006301.10
+FIS220        8  202302    1                  3001.05
+TOTAL PAGADO: 9009302.15
+
+   202311748  PATINO FUENTES MILAGROS MARIELLA             
+INF246       18  202302    1                  2087.62
+FIS220        5  202302    1                  2505.15
+TOTAL PAGADO: 4592.77
+
+   202226929  BOLANOS FUENTES JORGE                        
+FIS220       13  202301    1                  1629.00
+MEC270       15  202301    3         4396167663616.00
+TOTAL PAGADO: 4396167665245.00
+
+   202318318  TOKESHI GONZALES MARTIN                      
+INF246       12  202301    1                  1058.62
+INF263       17  202201    1                  1058.62
+TOTAL PAGADO: 2117.25
+
+   202312360  VILCA BARRERA CESAR EDGAR                    
+MEC270       14  202301    1                  2667.60
+INF246       12  202301    3        39117216217637.30
+MEC289       19  202202    1                  2834.32
+FIS220       14  202301    1                  3001.05
+TOTAL PAGADO: 39117216226140.28
+
+   202312050  LOYOLA HIJAR NICOLAS OSCAR                   
+MEC206       17  202301    1                  2505.15
+INF263        5  202301    1                  2087.62
+MAT241       10  202302    3         7779826362540.68
+TOTAL PAGADO: 7779826367133.46
+
+   202314919  CORTES CALIXTO ROSARIO                       
+MAT241       18  202202    2               4002800.49
+FIS220       20  202301    1                  3001.05
+TOTAL PAGADO: 4005801.54
+
+   202119707  MIRANDA LARRIEGA JUVENAL NESTOR              
+INF246       17  202302    3         3395934875039.06
+MEC289        7  202202    1                  1538.50
+TOTAL PAGADO: 3395934876577.56
+
+   202216453  MINAYA VIZCARRA JUVENAL                      
+MEC206       10  202201    2               4177527.21
+MAT241       11  202301    3         3447256017835.14
+MEC270       16  202201    1                  1816.80
+TOTAL PAGADO: 3447260197179.15
+
+   202313627  CHAVEZ CARO YVONNE                           
+   202129719  MAEIREIZO VASQUEZ LOURDES SILVIA             
+INF246       16  202201    1                  1357.50
+MEC270       15  202202    2               2096704.00
+FIS220       16  202201    1                  1629.00
+TOTAL PAGADO: 2099690.50
+
+   202222447  VILCA JUSTINO MELVIN                         
+INF263       17  202302    1                  1058.62
+TOTAL PAGADO: 1058.62
+
+   202111397  ZEVALLOS PRADO RICARDO                       
+MEC270       19  202202    2               2096704.00
+FIS220        6  202202    2               2653641.00
+TOTAL PAGADO: 4750345.00
+
+   202315527  JUSTINO COLLADO LUZ DELICIA                  
+INF263       11  202302    1                  1703.25
+INF246        7  202301    1                  1703.25
+TOTAL PAGADO: 3406.50
+
