@@ -1,0 +1,271 @@
+                                                REPORTE DE LIBROS
+==============================================================================================================
+CODIGO      NOMBRE                                                           AUTOR
+==============================================================================================================
+ACM9578   Amadis de gaula                                                  Garci Rodriguez Montalvo                
+AGQ7769   La Flecha Negra                                                  Robert Louis Stevenson                  
+AKU9740   Conversacion en La Catedral                                      Mario Vargas Llosa                      
+ALH8812   Guerra y Paz                                                     Leon Tolstoi                            
+AZL1098   El extranjero                                                    Albert Camus                            
+BAP2859   El túnel                                                         Ernesto Sabato                          
+BDK4183   La isla del tesoro                                               Robert Louis Stevenson                  
+BHD6079   Zorba el griego                                                  Nikos Kazantzakis                       
+BRG4234   La telarania de Carlota                                          E. B. White                             
+BSX2922   Una historia de Espania                                          Arturo Perez-Reverte                    
+BTX3816   El jugador                                                       Fiodor Dostoyevski                      
+BUB3833   Otelo                                                            William Shakespeare                     
+BUC5125   El faro de Stalingrado                                           Iain MacGregor                          
+BUT4998   Lolita                                                           Vladimir Nabokov                        
+BUY4915   La sombra del aguila                                             Arturo Perez-Reverte                    
+BXE0974   Los viajes de Gulliver                                           Jonathan Swift                          
+BZX4462   Culpa mia                                                        Mercedes Ron                            
+BZY0235   Fausto                                                           Johann Wolfgang Von Goethe              
+CJN4376   Harry Potter y la camara secreta (Harry Potter 2)                J. K. Rowling                           
+CKC4095   El Gran Gatsby                                                   F. Scott Fitzgerald                     
+CKR6798   El lobo estepario                                                Hermann Hesse                           
+CLG5566   Pantaleon y las visitadoras                                      Mario Vargas Llosa                      
+CMP1150   Don Quijote de la Mancha                                         Miguel de Cervantes                     
+CPE5718   Paris era una fiesta                                             Hernest Hemingway                       
+CRA4157   El forastero misterioso                                          Mark Twain                              
+CRR5443   Un mundo feliz                                                   Aldous Huxley                           
+CRY6839   Ricardo III                                                      William Shakespeare                     
+CST1133   Inferno                                                          Dan Brown                               
+CTW5846   El medievo cristiano                                             Mario Merlino                           
+CUV7849   Ficciones                                                        Jorge Luis Borges                       
+CXW5879   Los barcos se pierden en tierra                                  Arturo Perez-Reverte                    
+DDQ0721   En busca del tiempo perdido                                      Marcel Proust                           
+DDT0017   Viaje al fin de la noche                                         Louis Ferdinand Celine                  
+DDU0764   Dioses tumbas y sabios                                           C. W. Ceram                             
+DEF7625   Las uvas de la ira                                               John SteinbecK                          
+DEK2757   En llamas                                                        Suzanne Collins                         
+DND9446   Lo que el viento se llevo                                        Margaret Mitchell                       
+DPZ8059   El hombre que pudo reinar                                        Rudyard Kipling                         
+DTH6788   Los perros duros no bailan                                       Arturo Perez-Reverte                    
+DVL7760   Falco                                                            Arturo Perez-Reverte                    
+DVR5984   Mil soles esplendidos                                            Khaled Hosseini                         
+DXP8640   El retrato de Dorian Gray                                        Oscar Wilde                             
+EBE0042   Capitanes intrepidos                                             Rudyard Kipling                         
+EBT7258   Linea de fuego                                                   Arturo Perez-Reverte                    
+ECT0289   Juego de tronos                                                  George R.R.Martin                       
+EDQ0577   Las aventuras de Pinocho                                         Carlo Collodi                           
+EEJ4830   El Principito                                                    Antoine de Saint-Exupery                
+EFD3949   La divina comedia                                                Dante Alighieri                         
+EFQ0297   Trampa 22                                                        Joseph Heller                           
+EHX6253   La isla de las tormentas                                         Ken Follett                             
+EJE8138   Yawar fiesta                                                     Jose Maria Arguedas                     
+ELC8965   Las aventuras de Rocambole                                       Ponson Du Terrail                       
+ETV5056   Moby Dick                                                        Herman Melville                         
+ETZ8565   Confesiones de una mascara                                       Yukio Mishima                           
+EUO8195   El jardin del Eden                                               Hernest Hemingway                       
+EWI3090   La seniora Dalloway                                              Virginia Woolf                          
+EYV0597   Cuentos de la selva                                              Horacio Quiroga                         
+EZP0333   La Reina del Sur                                                 Arturo Perez-Reverte                    
+FBO8724   El pendulo de Foucault                                           Umberto Eco                             
+FKK6524   Los renglones torcidos de Dios                                   Torcuato Luca de Tena                   
+FMX8255   Las aventuras de Huckleberry Finn                                Mark Twain                              
+FNM6936   Divina comedia                                                   Dante Alighieri                         
+FVV9246   Matar a un ruisenior                                             Harper Lee                              
+FWK6327   El doble                                                         Fiodor Dostoyevski                      
+FWP8469   Justine o los infortunios                                        Charles Dickens                         
+FYV9055   Macbeth                                                          William Shakespeare                     
+GDA4236   Gente normal                                                     Sally Rooney                            
+GJM4671   Origenes                                                         Lewis Dartnell                          
+GKG6581   Hombres buenos                                                   Arturo Perez-Reverte                    
+GOG7446   El guardian entre el centeno                                     J. D. Salinger                          
+GPH1575   La gran aventura de los griegos                                  Javier Negrete                          
+GQC1814   Apocalipticos e integrados                                       Umberto Eco                             
+GUN8655   Angeles y demoniosi                                              Dan Brown                               
+GWE4133   El gato negro y otros cuentos                                    Edgar Allan Poe                         
+GXB5722   Cumbres borrascosas                                              Emily Brontë                            
+HCT8192   Diario                                                           Ana FranK                               
+HDA2333   Lituma en los Andes                                              Mario Vargas Llosa                      
+HGN9910   La ciudad y los perros                                           Mario Vargas Llosa                      
+HGQ0131   Odisea                                                           Homero                                  
+HHR5161   El francotirador paciente                                        Arturo Perez-Reverte                    
+HLB4548   Frankenstein o el moderno Prometeo                               Mary W. Shelley                         
+HLC2748   El senior de los anillos (Trilogia)                              J.R.R.Tolkien                           
+HPM0950   Fahrenheit 451                                                   Ray Bradbury                            
+HPP3360   El pintor de batallas                                            Arturo Perez-Reverte                    
+HRT0664   Los funerales de la Mama Grande                                  Gabriel Garcia Marquez                  
+HSE3213   Por quien doblan las campanas                                    Hernest Hemingway                       
+HVZ1228   El húsar                                                         Arturo Perez-Reverte                    
+HWM4049   Romper el circulo                                                Colleen Hoover                          
+HXB2949   El medico                                                        Noah Gordon                             
+IBP7411   Nunca                                                            Ken Follett                             
+ICU6090   La fiesta del chivo                                              Mario Vargas Llosa                      
+IFL0150   Romeo y Julieta                                                  William Shakespeare                     
+IGT8523   Una columna de fuego                                             Ken Follett                             
+IIM5175   Diamantes y pedernales                                           Jose Maria Arguedas                     
+ILA4795   La ladrona de libros                                             Markus ZusaK                            
+ILG7766   Iliada                                                           Homero                                  
+IMC3155   Los pilares de la tierra                                         Ken Follett                             
+IMK4892   La tabla de Flandes                                              Arturo Perez-Reverte                    
+ION3794   Crepúsculo                                                       Stephenie Meyer                         
+IPE3429   Sidi                                                             Arturo Perez-Reverte                    
+ISY5671   Harry Potter y la piedra filosofal (Harry Potter 1)              J. K. Rowling                           
+IUG2294   El proceso                                                       Franz Kafka                             
+IUI3314   El coronel no tiene quien le escriba                             Gabriel Garcia Marquez                  
+JBR9372   El maestro de esgrima                                            Arturo Perez-Reverte                    
+JEN0751   Ana Karenina                                                     Leon Tolstoi                            
+JGG5049   El eterno marido                                                 Fiodor Dostoyevski                      
+JHP0390   El conde de Montecristo                                          Alexandre Dumas                         
+JJV7549   Los hombres que no amaban a las mujeres                          Stieg Larsson                           
+JKE9650   La metamorfosis                                                  Franz Kafka                             
+JLQ6546   El retorno del Rey                                               J.R.R.Tolkien                           
+JNC0786   Mi isla                                                          Elisabet Benavent                       
+JOF6762   Ojos azules                                                      Arturo Perez-Reverte                    
+JSM8271   La Odisea                                                        Homero                                  
+JTX5687   Veinte mil leguas de viaje submarino                             Julio Verne                             
+JXC1015   Robinson Crusoe                                                  Daniel Defoe                            
+JXK3142   En el camino                                                     Jack Kerouac                            
+JZC7527   El tambor de hojalata                                            Gunter Grass                            
+JZQ8143   Suenios de robot                                                 Isaac Asimov                            
+JZU0977   El alquimista                                                    Paulo Coelho                            
+KBF4088   Harry Potter y el prisionero de Azkaban (Harry Potter 3)         J.K. Rowling                            
+KCI5219   El Maestro y Margarita                                           Mijail Bulgakov                         
+KGO1734   Una historia del mundo                                           Andrew Marr                             
+KLO8691   Catedral                                                         Raymond Carver                          
+KLV1872   Orgullo y prejuicio                                              Jane Austen                             
+KPE7420   Jane Eyre                                                        Charlotte Brontë                        
+KSX7995   El simbolo perdidoi                                              Dan Brown                               
+KTA8754   Ulises                                                           James Joyce                             
+KVL6246   La edad media - barbaros - cristianos y musulmanes               Umberto Eco                             
+KWL0415   1923                                                             Roberto Villa Garcia                    
+LDL2628   Harry Potter y el caliz de fuego (Harry Potter 4)                J.K. Rowling                            
+LGB2311   Decameron                                                        Giovanni Boccaccio                      
+LJD9991   Baudolino                                                        Umberto Eco                             
+LJE6687   El codigo Da Vinci                                               Dan Brown                               
+LQA8555   Rimas y leyendas                                                 Gustavo Adolfo Becquer                  
+LQL0880   Contra el fascismo                                               Umberto Eco                             
+LRV5687   La guerra del fin del mundo                                      Mario Vargas Llosa                      
+LVP3355   Las aventuras de Sherlock Holmes                                 Arthur Conan Doyle                      
+MBB0685   El capitan Alatriste                                             Arturo Perez-Reverte                    
+MBQ9495   Tormenta de espadas                                              George R.R.Martin                       
+MEH2993   Hijos de un tiempo perdido                                       Jose Maria Bermúdez de Castro           
+MIK5358   La transformacion del mundo                                      Jürgen Osterhammel                      
+MKB4184   Napoleon                                                         Alejandro Dumas                         
+MLC7198   Los rios profundos                                               Jose Maria Arguedas                     
+MNL3677   El Hobbit                                                        J.R.R. Tolkien                          
+MSW8176   Todo se desmorona                                                Chinua Achebe                           
+MTZ2227   Hamlet                                                           William Shakespeare                     
+MVU0233   La conspiracioni                                                 Dan Brown                               
+MWB2923   Mudlarking                                                       Lara Maiklem                            
+NBE1339   Palmeras en la nieve                                             Luz Gabas                               
+NBL8415   Espania con honra                                                Daniel Aquillue                         
+NEO9165   Emperador de Roma                                                Mary Beard                              
+NEW1762   Territorio comanche                                              Arturo Perez-Reverte                    
+NGQ6935   La casa de los espiritus                                         Isabel Allende                          
+OBD2849   El invierno del mundo                                            Ken Follett                             
+OBH4691   Crimen y castigo                                                 Fiodor Dostoyevski                      
+OCI8959   David Copperfield                                                Charles Dickens                         
+OMN0252   Los hermanos Karamazov                                           Fiodor Dostoyevski                      
+OQK1590   Cometas en el cielo                                              Khaled Hosseini                         
+OUU5470   La carta esferica                                                Arturo Perez-Reverte                    
+OWO8918   Origen                                                           Dan Brown                               
+OWU1533   Cuatro principes                                                 John Julius Norwich                     
+PCS8992   Y no quedo ninguno                                               Agatha Christie                         
+PGK5617   El Rey Lear                                                      William Shakespeare                     
+PHL4155   El idiota                                                        Fiodor Dostoyevski                      
+PPI9259   Revolucion                                                       Arturo Perez-Reverte                    
+PQB0775   El diablo de la botella y otros cuentos                          Robert Louis Stevenson                  
+PQZ1316   La Eneida                                                        Virgilio                                
+PRD1648   Relato de un naufrago                                            Gabriel Garcia Marquez                  
+PVS2464   Sapiens                                                          Yuval Noah Harari                       
+PWB4941   La montania magica                                               Thomas Mann                             
+PWX7633   La tia Julia y el escribidor                                     Mario Vargas Llosa                      
+PZP7176   La caida de los gigantes                                         Ken Follett                             
+QBL9575   Los miserables                                                   Victor Hugo                             
+QCA9584   Dr. Jekyll y Mr. Hyde                                            Robert Louis Stevenson                  
+QFG6515   El libro de la selva                                             Rudyard Kipling                         
+QHZ8547   Adios a las armas                                                Hernest Hemingway                       
+QKH2262   Fiesta                                                           Hernest Hemingway                       
+QMI4747   La isla de los amores infinitos                                  Daina Chaviano                          
+QMJ4188   Emma                                                             Jane Austen                             
+QQQ4712   Nuestra Seniora de Paris                                         Victor Hugo                             
+QRH6838   Las cronicas de Narnia                                           C. S. Lewis                             
+QVU3526   Vidas intrepidas                                                 Julio Albi de la Cuesta                 
+QVX9089   Madame Bovary                                                    Gustave Flaubert                        
+QYH7021   Historia del siglo XX: 1914-1991                                 Eric Hobsbawm                           
+RAO4129   Stalingrado                                                      Jonathan Trigg                          
+RII8346   Las dos Dianas                                                   Alejandro Dumas                         
+RLQ7170   El tango de la guardia vieja                                     Arturo Perez-Reverte                    
+RNG2321   El Aleph                                                         Jorge Luis Borges                       
+RRE8138   Trilogia de la Fundacion                                         Isaac Asimov                            
+RSK1164   El amor en los tiempos del colera                                Gabriel Garcia Marquez                  
+RWW7975   El nombre de la rosa                                             Umberto Eco                             
+RYI5447   El corazon es un cazador solitario                               Carson Mccullers                        
+RZX8790   El senior de las moscas                                          William Golding                         
+SBF7018   El handicap de la vida                                           Rudyard Kipling                         
+SBU9053   Tierra arrasada                                                  Alfredo Gonzalez Ruibal                 
+SFR1226   Ana la de las tejas verdes                                       Lucy Maud Montgomery                    
+SFZ1256   La Iliada                                                        Homero                                  
+SHF2360   Un dia de colera                                                 Arturo Perez-Reverte                    
+SIR3963   Memorias de una geisha                                           Arthur Golden                           
+SMI7078   Los cachorros                                                    Mario Vargas Llosa                      
+SMW0186   La sombra del viento                                             Carlos Ruiz Zafon                       
+SPM4763   Eva                                                              Arturo Perez-Reverte                    
+SQB7146   Cronica de una muerte anunciada                                  Gabriel Garcia Marquez                  
+SXT1015   Mientras agonizo                                                 William Faulkner                        
+TAB4639   El color que cayo del cielo                                      H. P. Lovecraft                         
+TBZ2657   Olalla                                                           Robert Louis Stevenson                  
+TDY0497   La chica del tren                                                Paula Hawkins                           
+THT4126   Harry Potter y las reliquias de la muerte (Harry Potter 7)       J. K. Rowling                           
+TMR5068   Los tres mosqueteros                                             Alejandro Dumas                         
+TOJ1764   Ensayo sobre la ceguera                                          Jose Saramago                           
+TVR7016   El corazon de las tinieblas                                      Joseph Conrad                           
+UCA0857   SPQR: una historia de la antigua Roma                            Mary Beard                              
+UCJ9882   El reino de este mundo                                           Alejo Carpentier                        
+UDS2730   Los Nibelungos                                                   Anonimo                                 
+UEJ1235   Grandes esperanzas                                               Charles Dickens                         
+UFK9792   El psicoanalista                                                 John Katzenbach                         
+ULM8751   La sumisa                                                        Fiodor Dostoyevski                      
+UQL8643   Dracula                                                          Bram Stoker                             
+USE5598   Fortaleza digitali                                               Dan Brown                               
+USK1312   Un mundo sin fin                                                 Ken Follett                             
+USM9579   El perfume                                                       Patrick Suskind                         
+UXZ2187   Los 7 habitos de la gente altamente efectiva                     Stephen R. Covey                        
+VDL9379   Los juegos del hambre                                            Suzanne Collins                         
+VFI8064   A sangre fria                                                    Truman Capote                           
+VFO4193   La catedral del mar                                              Ildefonso Falcones                      
+VFZ9435   El olor de la Edad Media                                         Javier Traite                           
+VHK9148   Historia y cronologia del mundo                                  Isaac Asimov                            
+VMW6915   Travesuras de la ninia mala                                      Mario Vargas Llosa                      
+VOI0019   El evangelio según Jesucristo                                    Jose Saramago                           
+VPN5351   El Amante                                                        Ana Maria Moix                          
+VSG3432   Bajo bandera negra                                               David Cordingly                         
+VTY5195   Un asunto de honor                                               Arturo Perez-Reverte                    
+VYG3594   Los demonios                                                     Fiodor Dostoyevski                      
+VYK6352   Armas germenes y acero                                           Jared Diamond                           
+WCZ0845   El cementerio de Praga                                           Umberto Eco                             
+WGA2754   El club Dumas                                                    Arturo Perez-Reverte                    
+WHU1288   La hija italiana                                                 Soraya Lane                             
+WMN3648   Pasaje a la India                                                E. M. Forster                           
+WOF6634   El problema final                                                Arturo Perez-Reverte                    
+WPU8819   Tristam Shandy                                                   Laurence Sterne                         
+WWT1581   La piel del tambor                                               Arturo Perez-Reverte                    
+WYE2119   El asedio                                                        Arturo Perez-Reverte                    
+WYS2674   Secuestrado                                                      Robert Louis Stevenson                  
+XBC5847   Tiempos recios                                                   Mario Vargas Llosa                      
+XCC4070   El italiano                                                      Arturo Perez-Reverte                    
+XIU2628   Cabo Trafalgar                                                   Arturo Perez-Reverte                    
+XIU6076   Rebelion en la granja                                            George Orwell                           
+XJT3661   Las aventuras de Tom Sawye                                       Mark Twain                              
+XMT1768   Los diarios de Adan y Eva                                        Mark Twain                              
+XRL3393   Le dedico mi silencio                                            Mario Vargas Llosa                      
+XTM9385   El mundo                                                         Simon Sebag Montefiore                  
+YDK7687   El otonio del patriarca                                          Gabriel Garcia Marquez                  
+YJE2497   Progreso del peregrino                                           John Bunyan                             
+YJI3961   Cien anios de soledad                                            Gabriel Garcia Marquez                  
+YKQ9278   Alicia en el pais de las maravillas                              Lewis Carroll                           
+YXF2137   En agosto nos vemos                                              Gabriel Garcia Marquez                  
+YZV6954   Corazon de las tinieblas                                         Joseph Conrad                           
+ZAL2738   1984                                                             George Orwell                           
+ZJM1292   El suenio del celta                                              Mario Vargas Llosa                      
+ZLE2920   Historia de la Edad Media                                        Indro Montanelli                        
+ZNF2241   El extranio caso del Dr. Jekyll y Mr. Hyde                       Robert Louis Stevenson                  
+ZOY6470   El viejo y el mar                                                Hernest Hemingway                       
+ZPD6557   El ruido y la furia                                              William Faulkner                        
+ZQD4253   Harry Potter y el misterio del principe ( Harry Potter 6)        J. K. Rowling                           
+ZQY9966   El suenio del tio                                                Fiodor Dostoyevski                      
+ZYF6683   Harry Potter y la Orden del Fenix ( Harry Potter 5)              J. K. Rowling                           
+NFP3266   Sabotaje                                                         Arturo Perez-Reverte                    
