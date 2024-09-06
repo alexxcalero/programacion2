@@ -1,0 +1,57 @@
+         REPORTE DE FLOTA
+=====================================
+Codigo de cliente:       52097922
+Placa:                   A1Q-612
+Carga maxima:            1000
+Carga actual:            612.1
+#Llantas:                6
+#Ejes:                   2
+Lista de pedidos:
+ISU.815        2.5       5
+OWN.701          3       2
+GBD.525        275       5
+UTN.601        1.6       2
+XSD.310        330       6
+=====================================
+Codigo de cliente:       59407188
+Placa:                   D9A-711
+Carga maxima:            300
+Carga actual:            101.5
+#Puertas:                3
+#Filas:                  2
+Lista de pedidos:
+OWN.701        1.5       1
+LYZ.614         15       3
+RDT.761         25       5
+BIT.434         60       6
+=====================================
+Codigo de cliente:       27635082
+Placa:                   O8J-848
+Carga maxima:            1000
+Carga actual:            0
+#Llantas:                6
+#Ejes:                   3
+    No hay pedidos para el cliente
+=====================================
+Codigo de cliente:       69639726
+Placa:                   Q5S-871
+Carga maxima:            300
+Carga actual:            10
+#Puertas:                3
+#Filas:                  2
+Lista de pedidos:
+DON.719          1       1
+OPT.996          9       3
+=====================================
+Codigo de cliente:       98140264
+Placa:                   Z4L-514
+Carga maxima:            400
+Carga actual:            150
+#Puertas:                2
+#Filas:                  1
+Lista de pedidos:
+DFF.034          1       2
+CJE.310          9       3
+BRD.969         60       1
+QHC.492         80       4
+=====================================
